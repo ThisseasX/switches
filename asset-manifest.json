@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/switches/static/js/main.ca5a9d99.chunk.js",
+    "main.js.map": "/switches/static/js/main.ca5a9d99.chunk.js.map",
+    "runtime-main.js": "/switches/static/js/runtime-main.f5c57de9.js",
+    "runtime-main.js.map": "/switches/static/js/runtime-main.f5c57de9.js.map",
+    "static/js/2.2a35ba1e.chunk.js": "/switches/static/js/2.2a35ba1e.chunk.js",
+    "static/js/2.2a35ba1e.chunk.js.map": "/switches/static/js/2.2a35ba1e.chunk.js.map",
+    "index.html": "/switches/index.html",
+    "service-worker.js": "/switches/service-worker.js",
+    "service-worker.js.map": "/switches/service-worker.js.map",
+    "static/js/2.2a35ba1e.chunk.js.LICENSE.txt": "/switches/static/js/2.2a35ba1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5c57de9.js",
+    "static/js/2.2a35ba1e.chunk.js",
+    "static/js/main.ca5a9d99.chunk.js"
+  ]
+}
